@@ -1,0 +1,1 @@
+In SQL, a common error is using incorrect data types in queries or table definitions. This can lead to unexpected results or errors during execution. For instance, attempting to perform arithmetic operations on string columns could produce incorrect results or an error. Another example is comparing values of different data types, which will yield unpredictable outcomes.
