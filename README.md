@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL error involving data type mismatches. The `bug.sql` file contains SQL code that attempts to perform arithmetic operations on string columns, resulting in unexpected behavior. The `bugSolution.sql` file provides the corrected version, ensuring correct data types are used in all operations.
